@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Standard tModLoader 1.4 mod project (…/ModSources/InfernoAura/InfernoAura.csproj). -->
+  <Import Project="../../tMLMod.targets" />
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>InfernoAura</AssemblyName>
+  </PropertyGroup>
+</Project>

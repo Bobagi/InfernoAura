@@ -1,0 +1,7 @@
+displayName = Inferno Aura
+author = Bobagi
+version = 0.3
+# side = Both: lives on the server and tModLoader sends it to every player on join
+# (downloaded from the server, it is not on the Workshop). Visual only: the Inferno
+# damage stays vanilla.
+side = Both

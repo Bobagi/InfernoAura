@@ -1,0 +1,20 @@
+[h1]Inferno Aura[/h1]
+The Inferno Potion is great, the giant spinning ring of fire covering half the screen not so much. This mod swaps that ring for a ring of flames on the ground around your feet, a warm glow and a few embers, closer to a fire aura than to a hula hoop.
+
+[h2]What changes[/h2]
+[list]
+[*]The vanilla Inferno ring is no longer drawn.
+[*]In its place, flames crawl around a ring at your feet: the far half burns behind your character and the near half in front, so it reads as a circle on the floor.
+[*]A soft warm light and a few embers drifting up.
+[/list]
+
+[h2]What does not change[/h2]
+Damage, range and the On Fire! debuff are vanilla. The mod only skips the ring when the game draws it and never touches the potion or the buff, so balance stays the same and other mods that read the Inferno buff keep working.
+
+[h2]Multiplayer[/h2]
+Works in single player. In multiplayer the mod goes on the server too: tModLoader sends it to every player when they join, so everyone sees the aura.
+
+[h2]Good to know[/h2]
+The aura is drawn as light, so it shines at night, underground and in the Underworld, and gets subtle in bright daylight.
+
+Source code on [url=https://github.com/Bobagi/InfernoAura]GitHub[/url]. Bugs and suggestions are welcome in the comments or in the GitHub issues.

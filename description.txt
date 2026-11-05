@@ -1,0 +1,4 @@
+Visual only. Replaces the Inferno Potion flame ring with flames licking up around the
+character, like a fire aura. Damage, range and the debuff are unchanged.
+
+side = Both: installed on the server, every player gets it automatically on join.
